@@ -25,6 +25,6 @@ _**^.^**_
 
 
 
-![GitHub Logo](/Users/jj/Desktop/螢幕截圖\ 2019-04-21\ 上午12.18.05.png )
+![GitHub Logo](螢幕截圖\ 2019-04-21\ 上午12.18.05.png )
 
-![GitHub Logo](/Users/jj/Desktop/螢幕截圖\ 2019-04-21\ 上午12.19.16.png)
+![GitHub Logo](螢幕截圖\ 2019-04-21\ 上午12.19.16.png)
